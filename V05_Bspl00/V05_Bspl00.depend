@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542695108 source:/home/aml/03_DEVEL/CB/Lecture_INF1_WS18_19/V05_Bspl00/main.c
+	<stdio.h>
+	<stdlib.h>
+
