@@ -3,13 +3,14 @@
 
 int main()
 {
-    int n,i,j;
-    i = 0;
-    j = 0;
 
-    n = j && i++;
-
-    printf("i = %i \n",i);
-
+    for(float x = -1.0; x < 1.0; x = x + 0.1)
+    {
+        printf("f = %.2f \n", x);
+        if( x == 0.0)
+        {
+            break;
+        }
+    }
     return 0;
 }
